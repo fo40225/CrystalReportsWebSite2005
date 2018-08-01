@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CrystalReportsWebSite2005", "CrystalReportsWebSite2005\", "{7AEF2104-DA3A-4AC2-9BE7-E79E1ECD9AD2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/CrystalReportsWebSite2005"
+		Debug.AspNetCompiler.PhysicalPath = "CrystalReportsWebSite2005\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CrystalReportsWebSite2005\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CrystalReportsWebSite2005"
+		Release.AspNetCompiler.PhysicalPath = "CrystalReportsWebSite2005\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CrystalReportsWebSite2005\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1081"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEF2104-DA3A-4AC2-9BE7-E79E1ECD9AD2}.Debug|.NET.ActiveCfg = Debug|.NET
+		{7AEF2104-DA3A-4AC2-9BE7-E79E1ECD9AD2}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
